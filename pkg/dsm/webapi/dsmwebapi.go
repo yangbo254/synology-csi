@@ -13,7 +13,7 @@ import (
 	"net/url"
 	"regexp"
 
-	"github.com/SynologyOpenSource/synology-csi/pkg/logger"
+	"github.com/yangbo254/synology-csi/pkg/logger"
 	log "github.com/sirupsen/logrus"
 )
 

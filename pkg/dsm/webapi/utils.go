@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/SynologyOpenSource/synology-csi/pkg/utils"
+	"github.com/yangbo254/synology-csi/pkg/utils"
 )
 
 func (dsm *DSM) IsUC() bool {

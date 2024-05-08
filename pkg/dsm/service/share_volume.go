@@ -13,9 +13,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/SynologyOpenSource/synology-csi/pkg/dsm/webapi"
-	"github.com/SynologyOpenSource/synology-csi/pkg/models"
-	"github.com/SynologyOpenSource/synology-csi/pkg/utils"
+	"github.com/yangbo254/synology-csi/pkg/dsm/webapi"
+	"github.com/yangbo254/synology-csi/pkg/models"
+	"github.com/yangbo254/synology-csi/pkg/utils"
 )
 
 func GMTToUnixSecond(timeStr string) (int64) {

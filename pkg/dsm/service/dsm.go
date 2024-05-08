@@ -15,10 +15,10 @@ import (
 	"strconv"
 	"time"
 	"strings"
-	"github.com/SynologyOpenSource/synology-csi/pkg/dsm/common"
-	"github.com/SynologyOpenSource/synology-csi/pkg/dsm/webapi"
-	"github.com/SynologyOpenSource/synology-csi/pkg/models"
-	"github.com/SynologyOpenSource/synology-csi/pkg/utils"
+	"github.com/yangbo254/synology-csi/pkg/dsm/common"
+	"github.com/yangbo254/synology-csi/pkg/dsm/webapi"
+	"github.com/yangbo254/synology-csi/pkg/models"
+	"github.com/yangbo254/synology-csi/pkg/utils"
 )
 
 type DsmService struct {

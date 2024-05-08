@@ -9,8 +9,8 @@ import (
 	"strconv"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/SynologyOpenSource/synology-csi/pkg/utils"
-	"github.com/SynologyOpenSource/synology-csi/pkg/logger"
+	"github.com/yangbo254/synology-csi/pkg/utils"
+	"github.com/yangbo254/synology-csi/pkg/logger"
 )
 
 type ShareInfo struct {
